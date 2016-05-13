@@ -13,7 +13,10 @@
   "office365": {
     "css": "css/derek.css"
   },
-  "homepage": {
-    "css": "css/derek.css"
-  }
+	"homepage": {
+		"css": "css/derek.css"
+	},
+	"jigsaw": {
+		"css": "css/derek.css"
+	}
 }
